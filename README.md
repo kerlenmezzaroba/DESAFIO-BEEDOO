@@ -37,3 +37,7 @@ Users Story
 		2.13. Como funcionário, quero poder acessar o sistema do computador, celular e tablete.
 
 	Para escrever as histórias do usuário me coloquei primeiramente no lugar do profissional que irá cadastrar os cursos e todas as informações relacionadas a ele para que, em outro momento os alunos possam consultar e realizar a sua inscrição. Após, coloquei-me no lugar do aluno que irá acessar essas informações e descrevi todas as histórias que considero importante para uma melhor experiência do usuário.
+
+ 	Links:
+  		Planilha: #link#
+    		Evidencias: #link#
