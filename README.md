@@ -39,6 +39,13 @@ Users Story
 	Para escrever as histórias do usuário me coloquei primeiramente no lugar do profissional que irá cadastrar os cursos e todas as informações relacionadas a ele para que, em outro momento os alunos possam consultar e realizar a sua inscrição. 
  	Após, coloquei-me no lugar do aluno que irá acessar essas informações e descrevi todas as histórias que considero importante para uma melhor experiência do usuário
 
-	Cenários de teste (Gherkin):
- 		https://docs.google.com/spreadsheets/d/1Xzye1bufiAmKoXJH_5u8k5uijA3UnggCkMGq3ssV74s/edit?usp=sharing
+	[Cenários de teste (Gherkin)](https://docs.google.com/spreadsheets/d/1Xzye1bufiAmKoXJH_5u8k5uijA3UnggCkMGq3ssV74s/edit?usp=sharing)
+   	Passo a Passo:
+    		https://drive.google.com/file/d/1fQvUbbcq8l0mykIO1ASajwP8qBsrB80m/view?usp=sharing
+	Videos:
+		https://drive.google.com/drive/folders/1FyNagG9TP3_zltn70exXFo31Kt0ju5BS?usp=sharing
+   	Evidencias:
+    		https://drive.google.com/file/d/1zLDzy7QX0g1-AlM_wpaSs2Vhn2g8DwUH/view?usp=sharing
+	Documentação Completa:
+ 		https://drive.google.com/file/d/1nQEJm7hG4XqF7fpmzRNeEhN4ezAJGVqA/view?usp=sharing
    
