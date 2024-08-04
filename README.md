@@ -36,8 +36,8 @@ Users Story
 		2.12. Como aluno, quero poder realizar minha inscrição no curso.
 		2.13. Como funcionário, quero poder acessar o sistema do computador, celular e tablete.
 
-	Para escrever as histórias do usuário me coloquei primeiramente no lugar do profissional que irá cadastrar os cursos e todas as informações relacionadas a ele para que, em outro momento os alunos possam consultar e realizar a sua inscrição. Após, coloquei-me no lugar do aluno que irá acessar essas informações e descrevi todas as histórias que considero importante para uma melhor experiência do usuário.
+	Para escrever as histórias do usuário me coloquei primeiramente no lugar do profissional que irá cadastrar os cursos e todas as informações relacionadas a ele para que, em outro momento os alunos possam consultar e realizar a sua inscrição. Após, coloquei-me no lugar do aluno que irá acessar essas informações e descrevi todas as histórias que considero importante para uma melhor experiência do usuário
 
- 	Links:
-  		Planilha: #link#
-    		Evidencias: #link#
+	Cenários de teste (Gherkin):
+ 		https://docs.google.com/spreadsheets/d/1Xzye1bufiAmKoXJH_5u8k5uijA3UnggCkMGq3ssV74s/edit?usp=sharing
+   
